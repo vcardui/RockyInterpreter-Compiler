@@ -25,6 +25,10 @@ para el lenguaje que creamos en clase [Rocky]:
 6. Generación de codigo objetivo
 */
 
+/*
+Comando para correr el programa: g++ -o rocky main.cpp && ./rocky < test_basic.rocky
+*/
+
 #include <iostream>
 #include <string> // std::to_string(num)
 #include <sstream>
